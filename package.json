@@ -1,5 +1,5 @@
 {
-  "name" : "grunt-jasmine-node-new",
+  "name" : "grunt-jasmine-node",
   "description" : "Grunt task for running jasmine-node",
   "version" : "0.3.2",
   "homepage" : "https://github.com/lennym/grunt-jasmine-node",
